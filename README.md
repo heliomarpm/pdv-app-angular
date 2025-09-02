@@ -136,7 +136,13 @@ O projeto está localizado em
 localhost:8080
 
 ```
+### Usuário e senha padrão
 
+Ao iniciar a aplicação pela primeira vez, um usuário padrão é criado automaticamente.  
+Essa configuração pode ser verificada na classe `UserInitializer`.
+
+- **Usuário:** `admin`  
+- **Senha:** `123`
 
 ## Autor
 
